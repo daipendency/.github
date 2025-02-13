@@ -4,4 +4,6 @@ Daipendency provides AI coding agents with all the information they need about a
 
 This is meant as a more convenient and accurate alternative to relying on the LLM's outdated training input (when using popular dependencies), or having to instruct your agent to scrape and index the online documentation for a particular dependency (and keeping it in sync as dependencies are upgraded).
 
+We currently support Rust and [will soon support TypeScript too](https://github.com/daipendency/daipendency-extractor-typescript).
+
 This project was inspired by [Aider's _repository map_](https://aider.chat/docs/repomap.html).
